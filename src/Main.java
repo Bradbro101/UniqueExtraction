@@ -13,10 +13,8 @@ import java.util.Scanner;
  */
 
 public class Main {
-    static String filepath = "C:\\Users\\Bradley Broughton\\OneDrive\\Documents\\Obsidian\\Obsidian Notes\\Undergrad\\Second Year" +
-            "\\CS26520 - Artificial Intelligence\\distances.txt";
-    static String output_filepath = "C:\\Users\\Bradley Broughton\\OneDrive\\Documents\\Obsidian\\Obsidian Notes\\Undergrad\\Second Year" +
-            "\\CS26520 - Artificial Intelligence\\places_and_relationships.txt";
+    static String filepath = "Dummy Filename or File Path";
+    static String output_filepath = "Dummy Filename or File Path";
     static ArrayList<String> uniqueValues = new ArrayList<>();
     static ArrayList<String> relationshipsList = new ArrayList<>();
     public static ArrayList<String> values = new ArrayList<>();
